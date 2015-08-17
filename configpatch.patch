@@ -1,0 +1,11 @@
+--- config.php
++++ config.php
+@@ -4,7 +4,7 @@
+ 
+ // Full path to the folder containing index.php, without trailing slash and whitespaces
+ // Do NOT remove the single quotes around the path
+-define('config_path', '/path/to/spotcommander');
++define('config_path', '/opt/lampp/htdocs/spotcommander/');
+ 
+ ### THESE CAN BE CHANGED ###
+ 
